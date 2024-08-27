@@ -28,7 +28,7 @@ height= "200">
     Es particularmente famoso por su extensa colección de orquídeas, que incluye más de 1,000 especies, además de bromelias, cactus, heliconias y otras plantas ornamentales.
     </p>
 
-###  _Jardín Else Kientzler_ <a name="one"></a>
+###  _Jardín Else Kientzler_ <a name="two"></a>
 <img src="https://www.orchidgardencr.com/images/jardin3.jpg" 
 alt="jardin"
 width="400"
