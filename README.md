@@ -1,7 +1,7 @@
-# _Jardines Botánicos de Costa Rica_
+# __Jardines Botánicos de Costa Rica__
 
 <p align="justified">
-    La siguiente es una lista de los __jardines botánicos en Costa Rica__.
+    La siguiente es una lista de los jardines botánicos en Costa Rica.
 Es importante considerar que un Jardín botánicos es un espacio dedicado a la colección, cultivo, estudio y exhibición de una amplia variedad de plantas. Estos jardines suelen tener múltiples propósitos, como la conservación de especies vegetales, la investigación científica, la educación ambiental y el disfrute público.
     </p>
 
