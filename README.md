@@ -88,5 +88,6 @@ Mira las ubicaciones y responde lo siguiente:
 <p align="justified">
     Con esta información podemos determinar que la mayoría de los Jardínes botánicos se encuentran en el centro del país, esto se debe a que la región central tiene un clima templado y estable durante todo el año, lo que es ideal para una amplia variedad de especies.Además, es una zona con buena infraestructura y acceso a recursos, con proximidad a universidades, centros de investigación y un alto flujo de turistas, lo que hace que los jardines botánicos sean accesibles para un mayor número de visitantes.
     Además de esto, es posible utilizar este mapa para localizar rutas para visitar varios jardines en un solo día, y al unirlo con toda la información previa, nos permite identificar vacíos en localización ideales para este tipo de jardínes y plantas poco comunes en los mismos. 
-    [Ver más](https://diaonia.com/que-es-un-jardin-botanico-y-cual-es-su-importancia/)
     </p>
+    
+[Ver más](https://diaonia.com/que-es-un-jardin-botanico-y-cual-es-su-importancia/)
