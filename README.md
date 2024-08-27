@@ -83,7 +83,8 @@ __Figura 5__ Jardín Botánico La Catalina
 <img src="rose.png" 
 alt="flor"
 width="20"
-height= "20"> # [MAPA](https://www.google.com/maps/d/u/0/edit?mid=1W_1B8cPQEkv9aDyxFdCzFwdo-Fi_ue4&usp=sharing)
+height= "20"> 
+# [MAPA](https://www.google.com/maps/d/u/0/edit?mid=1W_1B8cPQEkv9aDyxFdCzFwdo-Fi_ue4&usp=sharing)
 
 Mira las ubicaciones y responde lo siguiente:
 >¿__Conoces__ alguno de ellos?
