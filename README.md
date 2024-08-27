@@ -22,7 +22,7 @@ height= "200">
 **Figura 1** UCR
 
 <p align="justified">
-    El **Jardín Botánico Lankester** está ubicado en Cartago. 
+    El *Jardín Botánico Lankester* está ubicado en Cartago. 
     Fundado en 1973, este jardín es administrado por la Universidad de Costa Rica y se especializa en la conservación, investigación y educación de la flora tropical. 
     Es particularmente famoso por su extensa colección de orquídeas, que incluye más de 1,000 especies, además de bromelias, cactus, heliconias y otras plantas ornamentales.
     </p>
@@ -35,7 +35,7 @@ height= "200">
 **Figura 2** Jardín Else Kientzler
 
 <p align="justified">
-    El **Jardín Botánico Else Kientzler**, comúnmente conocido como Jardín Botánico La Garita, es un hermoso jardín botánico ubicado en La Garita de Alajuela. Fundado en 2001, este jardín es famoso por su extensa colección de heliconias, bromelias, palmeras y otras plantas ornamentales, distribuidas en diferentes áreas temáticas. Los visitantes pueden recorrer sus senderos y disfrutar de paisajes cuidadosamente diseñados que combinan especies locales y exóticas.
+    El *Jardín Botánico Else Kientzler*, comúnmente conocido como Jardín Botánico La Garita, es un hermoso jardín botánico ubicado en La Garita de Alajuela. Fundado en 2001, este jardín es famoso por su extensa colección de heliconias, bromelias, palmeras y otras plantas ornamentales, distribuidas en diferentes áreas temáticas. Los visitantes pueden recorrer sus senderos y disfrutar de paisajes cuidadosamente diseñados que combinan especies locales y exóticas.
     </p>
 
 ###  _Jardín Botánico José María Orozco_ <a name="three"></a>
@@ -46,7 +46,7 @@ height= "200">
 **Figura 3** UCR
 
 <p align="justified">
-    El Jardín Botánico José María Orozco se encuentra situado en San José. Se caracteriza por su ambiente tranquilo y su enfoque en la conservación de la flora local. El jardín lleva el nombre de José María Orozco en honor a un destacado botánico costarricense que contribuyó al estudio y preservación de las plantas en la región. Este jardín también juega un papel educativo importante, ofreciendo visitas guiadas y talleres para escolares sobre la importancia de la conservación ambiental.
+    El *Jardín Botánico José María Orozco* se encuentra situado en San José. Se caracteriza por su ambiente tranquilo y su enfoque en la conservación de la flora local. El jardín lleva el nombre de José María Orozco en honor a un destacado botánico costarricense que contribuyó al estudio y preservación de las plantas en la región. Este jardín también juega un papel educativo importante, ofreciendo visitas guiadas y talleres para escolares sobre la importancia de la conservación ambiental.
     </p>
 
 ###  _CATIE Botanical Garden_ <a name="four"></a>
@@ -57,7 +57,7 @@ height= "200">
 **Figura 4** Catie
 
 <p align="justified">
-     Jardín Botánico CATIE (Centro Agronómico Tropical de Investigación y Enseñanza) es uno de los jardines botánicos más importantes de Costa Rica, ubicado en Turrialba, Cartago. Fundado en 1927, el jardín forma parte del campus del CATIE.
+    El *Jardín Botánico CATIE Centro Agronómico Tropical de Investigación y Enseñanza)* es uno de los jardines botánicos más importantes de Costa Rica, ubicado en Turrialba, Cartago. Fundado en 1927, el jardín forma parte del campus del CATIE.
      El Jardín Botánico CATIE alberga una vasta colección de plantas tropicales, incluyendo especies de cacao, café, frutales tropicales, palmeras, y árboles maderables. Destaca por su enfoque en la conservación de especies útiles para la agricultura y la investigación en sistemas agroforestales.
     </p>
 
@@ -68,7 +68,7 @@ width="400"
 height= "200">
 
 <p align="justified">
-    El Jardín Botánico La Catalina es un jardín botánico ubicado en Heredia. Es conocido por su amplia colección de plantas tropicales y subtropicales, incluyendo orquídeas, heliconias, bromelias, y árboles frutales. 
+    El *Jardín Botánico La Catalina* es un jardín botánico ubicado en Heredia. Es conocido por su amplia colección de plantas tropicales y subtropicales, incluyendo orquídeas, heliconias, bromelias, y árboles frutales. 
     Está rodeado de paisajes naturales y ofrece senderos que permiten a los visitantes explorar diferentes ecosistemas y colecciones temáticas de plantas. Además de ser un espacio para la recreación y el disfrute de la naturaleza, el Jardín Botánico La Catalina también es un centro de investigación y educación, donde se realizan actividades y talleres para estudiantes, investigadores y el público general interesados en la flora tropical.
     </p>
 
