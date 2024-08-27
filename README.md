@@ -74,7 +74,9 @@ height= "200">
     </p>
 
 ## __Mapa de localizaciones__ <a name="six"></a>
+<p align="justified">
     El siguiente es un mapa que nos permite localizar las diferentes ubicaciones de los jardines botánicos en Costa Rica, estos contienen una foto, la ubicacion y un enlace a Google Maps para mayor detalle.
+     </p>
 
 
 # [MAPA](https://www.google.com/maps/d/u/0/edit?mid=1W_1B8cPQEkv9aDyxFdCzFwdo-Fi_ue4&usp=sharing)
