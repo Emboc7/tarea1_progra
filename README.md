@@ -82,8 +82,8 @@ height= "200">
 # [MAPA](https://www.google.com/maps/d/u/0/edit?mid=1W_1B8cPQEkv9aDyxFdCzFwdo-Fi_ue4&usp=sharing)
 
 Mira las ubicaciones y responde lo siguiente:
->¿Conoces alguno de ellos?
->¿Dónde se localizan la mayoría de jardines botánicos del país?
+>¿__Conoces__ alguno de ellos?
+>¿__Dónde__ se localizan la mayoría de jardines botánicos del país?
 
 <p align="justified">
     Con esta información podemos determinar que la mayoría de los Jardínes botánicos se encuentran en el centro del país, esto se debe a que la región central tiene un clima templado y estable durante todo el año, lo que es ideal para una amplia variedad de especies.Además, es una zona con buena infraestructura y acceso a recursos, con proximidad a universidades, centros de investigación y un alto flujo de turistas, lo que hace que los jardines botánicos sean accesibles para un mayor número de visitantes.
