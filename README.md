@@ -21,7 +21,7 @@ Es importante considerar que un Jardín botánicos es un espacio dedicado a la c
 alt="jardin"
 width="400"
 height= "200">
-**Figura 1** UCR
+__Figura 1__ UCR
 
 <p align="justified">
     El Jardín Botánico Lankester está ubicado en Cartago. 
@@ -34,7 +34,7 @@ height= "200">
 alt="jardin"
 width="400"
 height= "200">
-**Figura 2** Jardín Else Kientzler
+__Figura 2__ Jardín Else Kientzler
 
 <p align="justified">
     El Jardín Botánico Else Kientzler, comúnmente conocido como Jardín Botánico La Garita, es un hermoso jardín botánico ubicado en La Garita de Alajuela. Fundado en 2001, este jardín es famoso por su extensa colección de heliconias, bromelias, palmeras y otras plantas ornamentales, distribuidas en diferentes áreas temáticas. Los visitantes pueden recorrer sus senderos y disfrutar de paisajes cuidadosamente diseñados que combinan especies locales y exóticas.
@@ -45,7 +45,7 @@ height= "200">
 alt="jardin"
 width="400"
 height= "200">
-**Figura 3** UCR
+__Figura 3__ UCR
 
 <p align="justified">
     El Jardín Botánico José María Orozco se encuentra situado en San José. Se caracteriza por su ambiente tranquilo y su enfoque en la conservación de la flora local. El jardín lleva el nombre de José María Orozco en honor a un destacado botánico costarricense que contribuyó al estudio y preservación de las plantas en la región. Este jardín también juega un papel educativo importante, ofreciendo visitas guiadas y talleres para escolares sobre la importancia de la conservación ambiental.
@@ -56,7 +56,7 @@ height= "200">
 alt="jardin"
 width="400"
 height= "200">
-**Figura 4** Catie
+__Figura 4__ Catie
 
 <p align="justified">
     El Jardín Botánico CATIE Centro Agronómico Tropical de Investigación y Enseñanza) es uno de los jardines botánicos más importantes de Costa Rica, ubicado en Turrialba, Cartago. Fundado en 1927, el jardín forma parte del campus del CATIE.
@@ -68,6 +68,7 @@ height= "200">
 alt="text"
 width="400"
 height= "200">
+__Figura 5__ Jardín Botánico La Catalina
 
 <p align="justified">
     El Jardín Botánico La Catalina es un jardín botánico ubicado en Heredia. Es conocido por su amplia colección de plantas tropicales y subtropicales, incluyendo orquídeas, heliconias, bromelias, y árboles frutales. 
