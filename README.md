@@ -80,15 +80,16 @@ __Figura 5__ Jardín Botánico La Catalina
     El siguiente es un mapa que nos permite localizar las diferentes ubicaciones de los jardines botánicos en Costa Rica, estos contienen una foto, la ubicacion y un enlace a Google Maps para mayor detalle.
      </p>
 
+# [MAPA](https://www.google.com/maps/d/u/0/edit?mid=1W_1B8cPQEkv9aDyxFdCzFwdo-Fi_ue4&usp=sharing) 
+
 <img src="rose.png" 
 alt="flor"
-width="20"
-height= "20"> 
-# [MAPA](https://www.google.com/maps/d/u/0/edit?mid=1W_1B8cPQEkv9aDyxFdCzFwdo-Fi_ue4&usp=sharing)
-
+width="15"
+height= "15"> 
 Mira las ubicaciones y responde lo siguiente:
+
 >¿__Conoces__ alguno de ellos?
->¿__Dónde__ se localizan la mayoría de jardines botánicos del país?
+>>¿__Dónde__ se localizan la mayoría de jardines botánicos del país?
 
 <p align="justified">
     Con esta información podemos determinar que la mayoría de los Jardínes botánicos se encuentran en el centro del país, esto se debe a que la región central tiene un clima templado y estable durante todo el año, lo que es ideal para una amplia variedad de especies.Además, es una zona con buena infraestructura y acceso a recursos, con proximidad a universidades, centros de investigación y un alto flujo de turistas, lo que hace que los jardines botánicos sean accesibles para un mayor número de visitantes.
