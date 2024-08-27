@@ -90,4 +90,4 @@ Mira las ubicaciones y responde lo siguiente:
     Además de esto, es posible utilizar este mapa para localizar rutas para visitar varios jardines en un solo día, y al unirlo con toda la información previa, nos permite identificar vacíos en localización ideales para este tipo de jardínes y plantas poco comunes en los mismos. 
     </p>
     
-[Ver más](https://diaonia.com/que-es-un-jardin-botanico-y-cual-es-su-importancia/)
+[Descubrir más sobre jardines botánicos](https://diaonia.com/que-es-un-jardin-botanico-y-cual-es-su-importancia/)
