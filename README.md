@@ -14,6 +14,7 @@ Es importante considerar que un Jardín botánicos es un espacio dedicado a la c
 4. [CATIE Botanical Garden](#four)
 5. [Jardín Botánico La Catalina](#five)
 6. [Mapa de localizaciones](#six)
+7. [Referencias](#seven)
 
 
 ### _Jardín Botánico Lankester_ <a name="one"></a>
@@ -97,3 +98,10 @@ Mira las ubicaciones y responde lo siguiente:
     </p>
     
 [Descubrir más sobre jardines botánicos](https://diaonia.com/que-es-un-jardin-botanico-y-cual-es-su-importancia/)
+
+## __Referencias__ <a name="seven"></a>
+- [UCR](https://jmo.biologia.ucr.ac.cr/)
+- [UCR](https://jbl.ucr.ac.cr/)
+- [Jardín Else Kientzler](https://elsegarden.com/)
+- [Catie](https://www.bing.com/search?q=jardin+el+catie&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=jardin+el+catie&sc=8-15&sk=&cvid=2ADD977A10DD4FCAAF95E4C9ECC08568&ghsh=0&ghacc=0&ghpl=)
+- [La Catalina](https://www.facebook.com/orchidgarden.lacatalina/)
