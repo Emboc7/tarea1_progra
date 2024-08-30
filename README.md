@@ -90,11 +90,15 @@ height= "15">
 Mira las ubicaciones y responde lo siguiente:
 
 >¿__Conoces__ alguno de ellos?
->>¿__Dónde__ se localizan la mayoría de jardines botánicos del país?
+>>¿En __cuál__ Provincia se localizan la mayoría de jardines botánicos del país?
+>>>¿Por qué crees que la mayoría de estos jardines se encuentran en en centro del país y no cerca de las costas?
 
 <p align="justified">
     Con esta información podemos determinar que la mayoría de los Jardínes botánicos se encuentran en el centro del país, esto se debe a que la región central tiene un clima templado y estable durante todo el año, lo que es ideal para una amplia variedad de especies.Además, es una zona con buena infraestructura y acceso a recursos, con proximidad a universidades, centros de investigación y un alto flujo de turistas, lo que hace que los jardines botánicos sean accesibles para un mayor número de visitantes.
     Además de esto, es posible utilizar este mapa para localizar rutas para visitar varios jardines en un solo día, y al unirlo con toda la información previa, nos permite identificar vacíos en localización ideales para este tipo de jardínes y plantas poco comunes en los mismos. 
+    </p>
+    <p align="justified">
+    Los jardines son importantes porque juegan un papel crucial en la preservación de especies, especialmente aquellas que están amenazadas o en peligro de extinción, esto porque son refugios para la biodiversidad, además, como se mencionó anteriomente, son un espacio para la investigación y el estudio de plantas, que permite desarrollar conocimientos en campos como la ecología y la genética. Son centros educativos que promueven la conciencia sobre la relevancia de las plantas y los ecosistemas, y finalmente, estos son un espacio de ocio para el disfrute de la naturaleza, permitiendo a las personas conectar y conocer su entorno.
     </p>
     
 [Descubrir más sobre jardines botánicos](https://diaonia.com/que-es-un-jardin-botanico-y-cual-es-su-importancia/)
